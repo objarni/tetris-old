@@ -1,0 +1,7 @@
+#!/bin/bash
+
+function tetris() {
+	  cd your_directory_here
+			java Tetris
+				cd -
+}
