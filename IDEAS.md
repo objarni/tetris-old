@@ -5,6 +5,7 @@
 * Look for primitive obsession, clean up
 * Remove clutter comments
 * Add automatic formatting
+* Apply all IntelliJ suggestions
 
 # Possible architectural patterns
 

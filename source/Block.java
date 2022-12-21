@@ -1,3 +1,5 @@
+package source;
+
 import java.awt.Color;
 
 public class Block
@@ -80,6 +82,6 @@ public class Block
 	//returns a string with the location and color of this block
     public String toString()
     {
-        return "Block[location=" + location + ",color=" + color + "]";
+        return "source.Block[location=" + location + ",color=" + color + "]";
     }
 }
