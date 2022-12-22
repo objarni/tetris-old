@@ -1,14 +1,14 @@
 ## IDEAS
 
 # Low hanging
-* Refactor GridMonster 'test' into proper tests
-* Look for primitive obsession, clean up
-* Remove clutter comments
-* Add automatic formatting
-* Apply all IntelliJ suggestions
+ * Apply suggestions from Inspect code
+ * Add automatic formatting
+ * Remove clutter comments
+ * Refactor GridMonster 'test' into proper tests
+ * Apply all IntelliJ suggestions, file by file
+ * Look for primitive obsession, clean up
 
 # Possible architectural patterns
-
  * Hexagonal architecture
  * Imperative shell, functional core
 
